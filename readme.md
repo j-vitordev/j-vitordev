@@ -1,10 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-
-
-### 👨‍🎓 I am a student of the Systems Analysis and Development course focused on a full-stack career in Java.
-
-### 🏅 Certified with the course "Java Completo Programação Orientada à Objetos + Projetos" by Teacher Nélio Alves. I am seeking my second Full-Stack certification in Java with the course "Formação Java Web FullStack" by Teacher Alex F.E.
+### 👨‍🎓 I am a student of the Systems Analysis and Development course, currently in my fourth semester. My studies focus on Java, Spring, PostgreSQL, and Git. I am dedicated and determined to continually seek new learning opportunities and improve my skills.
 
 <br/>
 
@@ -60,6 +56,15 @@
  
  <br/>
  <br>
- 
 
+## My Projects
 
+You can check out all my projects organized in my GitHub organization:
+
+- [My Projects](https://github.com/MeusProjetosPortfolio) - Here you will find all my repositories, including backend and frontend.
+
+### Featured Projects
+
+[Events]- A form-based application where users can register their name, community, and phone number. The data is persisted in PostgreSQL and displayed in a user-visible table. Users can also generate a PDF report of the entries.
+ - [Backend](https://github.com/MeusProjetosPortfolio/evento-backend).
+ - [Frontend](https://github.com/MeusProjetosPortfolio/evento-frontend).

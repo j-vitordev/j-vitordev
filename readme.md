@@ -69,7 +69,7 @@ You can check out all my projects organized in my GitHub organization:
  - [Backend](https://github.com/MeusProjetosPortfolio/evento-backend).
  - [Frontend](https://github.com/MeusProjetosPortfolio/evento-frontend).
 
-   ## My Exercises
+## My Exercises
 
 You can check out all my exercises organized in my GitHub organization:
 

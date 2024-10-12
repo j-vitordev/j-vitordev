@@ -68,3 +68,11 @@ You can check out all my projects organized in my GitHub organization:
 [Events]- A form-based application where users can register their name, community, and phone number. The data is persisted in PostgreSQL and displayed in a user-visible table. Users can also generate a PDF report of the entries.
  - [Backend](https://github.com/MeusProjetosPortfolio/evento-backend).
  - [Frontend](https://github.com/MeusProjetosPortfolio/evento-frontend).
+
+   ## My Exercises
+
+You can check out all my exercises organized in my GitHub organization:
+
+- [My Exercises](https://github.com/MeusExercicios) - This organization contains repositories with various coding exercises and practice applications.
+
+  

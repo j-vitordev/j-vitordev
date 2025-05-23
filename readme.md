@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### 👨‍🎓 I am a student of the Systems Analysis and Development course, currently in my fourth semester. My studies focus on Java, Spring, PostgreSQL, and Git. I am dedicated and determined to continually seek new learning opportunities and improve my skills.
+### 👨‍🎓 I am a student of the Systems Analysis and Development course, currently in my fifth semester. My studies focus on Java, Spring, PostgreSQL, and Git. I am dedicated and determined to continually seek new learning opportunities and improve my skills.
 
 <br/>
 

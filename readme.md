@@ -61,19 +61,4 @@
 
 You can check out all my projects organized in my GitHub organization:
 
-- [My Projects](https://github.com/MeusProjetosPortfolio) - Here you will find all my repositories, including backend and frontend.
-
-### Featured Projects
-
-- **Events** - A form-based application where users can register their name, community, and phone number. The data is persisted in PostgreSQL and displayed in a user-visible table. Users can also generate a PDF report of the entries.
-   - [Backend](https://github.com/MeusProjetosPortfolio/evento-backend).
-   - [Frontend](https://github.com/MeusProjetosPortfolio/evento-frontend).
-
-- **Reading Encouragement API** - An API designed to encourage reading. Built with Spring and Java, it uses PostgreSQL with Flyway for database versioning and Swagger for route documentation. Users can register, log achievements, and track their reading progress, including details like total reading days and rewards based on their goals.
-   - [Backend](https://github.com/MeusProjetosPortfolio/progressBook)
-
-## My Exercises
-
-You can check out all my exercises organized in my GitHub organization:
-
-- [My Exercises](https://github.com/MeusExercicios) - This organization contains repositories with various coding exercises and practice applications.
+- [My Projects]([https://github.com/MeusProjetosPortfolio](https://github.com/MeusProjetosJava) - Here you will find all my repositories, including backend and frontend.

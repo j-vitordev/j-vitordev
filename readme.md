@@ -61,4 +61,11 @@
 
 You can check out all my projects organized in my GitHub organization:
 
-- [My Projects]([https://github.com/MeusProjetosPortfolio](https://github.com/MeusProjetosJava)) - Here you will find all my repositories, including backend and frontend.
+- [My Projects]([https://github.com/MeusProjetosPortfolio]) - Here you will find all my repositories, including backend and frontend.
+
+
+## My Exercises
+
+You can check out all my exercises organized in my GitHub organization:
+
+- [My Exercises](https://github.com/MeusExercicios) - This organization contains repositories with various coding exercises and practice applications.

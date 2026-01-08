@@ -1,6 +1,9 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### 👨‍🎓 I have a degree in Systems Analysis and Development. My studies have focused on Java, Spring, PostgreSQL, and Git. I am dedicated and determined to continually seek new learning opportunities and improve my skills.
+### 👨‍💻 Backend Developer focused on Java & Spring Boot.  
+I build REST APIs, integrate databases, apply clean architecture principles, and work with Dockerized environments.  
+Always improving code quality, scalability, and real-world problem solving.
+
 
 <br/>
 
@@ -34,30 +37,37 @@
 <!-- MySQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
 
- <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
-
  <!-- IntelliJ IDEA -->
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="50" />
 
 <!-- Visual Studio Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" />
 
-<!-- HTML5 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+<!-- docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 
-<!-- CSS3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+<!-- angular -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50"/>
 
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+
 
 </div>
  
  <br/>
  <br>
 
-## My Projects
+
+## 🚀 Main Project
+
+### 📦 Order Notification System (Dockerized)
+
+Backend application built with **Java + Spring Boot**, integrated with **MySQL**, fully **Dockerized using Docker Compose**.  
+The system manages orders, updates status, applies soft delete rules, and sends SMS notifications.
+
+🔹 **Backend:** [notificador-backend](https://github.com/MeusProjetosJava/notificadorWeb)  
+🔹 **Frontend (Angular):** [notificador-frontend](https://github.com/MeusProjetosJava/notificadorFront) 
+
+## 📂 Other Projects
 
 You can check out all my projects organized in my GitHub organization:
 
